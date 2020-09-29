@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Goals"
+    }
+  },
+  "defaultProject": "Goals",
+  "cli": {
+    "analytics": "e561f086-434a-40a1-a62c-0a1a0eef8614"
+  }
 }
